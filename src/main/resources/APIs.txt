@@ -1,0 +1,95 @@
+Part 1 - APIs
+
+POST http://localhost:8080/api/bankdata/109
+Content-Type: application/json
+
+{
+  "depoid": "109",
+  "depoName": "NAREN",
+  "branchName": "POWAI",
+  "depoAmt": 7000,
+  "depoDate": "1995-08-10",
+  "custName": "NAREN",
+  "custCity": "BOMBAY"
+}
+
+-----------------------------------
+
+1.1 - API
+
+GET http://localhost:8080/api/getcustname/SUNIL
+Accept: application/json
+
+-----------------------------------
+
+1.2 - API
+
+GET http://localhost:8080/api/getnameandamt?custName="ANIL"?&depoAmt=3000
+Accept: application/json
+
+-----------------------------------
+
+1.3 - API
+
+GET http://localhost:8080/api/depodtails?custCity="NAGPUR"
+Accept: application/json
+
+-----------------------------------
+
+1.4 - API
+
+GET http://localhost:8080/api/depo?branchName="VRCE"?&custCity="DELHI"
+Accept: application/json
+
+-----------------------------------
+
+1.5 - API
+
+GET http://localhost:8080/api/depositer?custName="PRAMOD"?&depoAmt=5000
+Accept: application/json
+
+-----------------------------------
+
+1.6 - API
+
+GET http://localhost:8080/api/samecitynames?custName="ANIL"?&depoName="SUNIL"
+Accept: application/json
+
+-----------------------------------
+
+1.7 - API
+
+GET http://localhost:8080/api/yeartns?year=1996
+Accept: application/json
+
+-----------------------------------
+
+Part 2 - API
+
+2.1 - API
+
+GET http://localhost:8080/api/cust?custCity="NAGPUR"
+Accept: application/json
+
+-----------------------------------
+
+2.2 - API
+
+GET http://localhost:8080/api/custnamebysamecity?custName="SUNIL"?&custCity="DELHI"
+Accept: application/json
+
+-----------------------------------
+
+2.3 - API
+GET http://localhost:8080/api/custnamwithdepolist?custCity="NAGPUR"
+Accept: application/json
+
+-----------------------------------
+
+2.4 - API
+
+GET http://localhost:8080/api/getbycustyear?dapoDate=1996-01-01
+Accept: application/json
+
+-----------------------------------
+

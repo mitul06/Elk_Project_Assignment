@@ -1,0 +1,92 @@
+[
+  {
+    "depoid": "100",
+    "depoName": "ANIL",
+    "branchName": "VRCE",
+    "depoAmt": 1000,
+    "depoDate": "1995-03-01",
+    "custName": "ANIL",
+    "custCity": "CALCUTTA"
+  },
+  {
+    "depoid": "101",
+    "depoName": "SUNIL",
+    "branchName": "AJNI",
+    "depoAmt": 5000,
+    "depoDate": "1998-01-04",
+    "custName": "SUNIL",
+    "custCity": "DELHI"
+  },
+  {
+    "depoid": "102",
+    "depoName": "MEHUL",
+    "branchName": "KAROLBAGH",
+    "depoAmt": 3500,
+    "depoDate": "1995-11-17",
+    "custName": "MEHUL",
+    "custCity": "BARODA"
+  },
+  {
+    "depoid": "103",
+    "depoName": "MANDAR",
+    "branchName": "VASAI",
+    "depoAmt": 4000,
+    "depoDate": "1995-10-20",
+    "custName": "MANDAR",
+    "custCity": "PATNA"
+  },
+  {
+    "depoid": "104",
+    "depoName": "MADHURI",
+    "branchName": "CHANDNI",
+    "depoAmt": 1200,
+    "depoDate": "1995-12-17",
+    "custName": "MADHURI",
+    "custCity": "NAGPUR"
+  },
+  {
+    "depoid": "105",
+    "depoName": "PRAMOD",
+    "branchName": "MGROAD",
+    "depoAmt": 3000,
+    "depoDate": "1996-03-27",
+    "custName": "PRAMOD",
+    "custCity": "NAGPUR"
+  },
+  {
+    "depoid": "106",
+    "depoName": "SANDIP",
+    "branchName": "ANDHERI",
+    "depoAmt": 2000,
+    "depoDate": "1996-03-31",
+    "custName": "SANDIP",
+    "custCity": "SURAT"
+  },
+  {
+    "depoid": "107",
+    "depoName": "SHIVANI",
+    "branchName": "VIRAR",
+    "depoAmt": 1000,
+    "depoDate": "1995-05-09",
+    "custName": "SHIVANI",
+    "custCity": "BOMBAY"
+  },
+  {
+    "depoid": "108",
+    "depoName": "KRANTI",
+    "branchName": "NEHRUPLACE",
+    "depoAmt": 5000,
+    "depoDate": "1995-07-02",
+    "custName": "KRANTI",
+    "custCity": "BOMBAY"
+  },
+  {
+    "depoid": "109",
+    "depoName": "NAREN",
+    "branchName": "POWAI",
+    "depoAmt": 7000,
+    "depoDate": "1995-08-10",
+    "custName": "NAREN",
+    "custCity": "BOMBAY"
+  }
+]

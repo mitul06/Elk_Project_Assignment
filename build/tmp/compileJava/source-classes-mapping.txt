@@ -1,0 +1,6 @@
+com/practice/assignmentelk/Controller/EsController.java
+ com.practice.assignmentelk.Controller.EsController
+com/practice/assignmentelk/Domain/Bank.java
+ com.practice.assignmentelk.Domain.Bank
+com/practice/assignmentelk/AssignmentelkApplication.java
+ com.practice.assignmentelk.AssignmentelkApplication
